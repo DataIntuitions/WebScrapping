@@ -1,5 +1,5 @@
 ﻿namespace WebReaper.ProxyProviders.WebShareProxy
-{
+{ 
     public class Proxy
     {
         public string Username { get; set; }
