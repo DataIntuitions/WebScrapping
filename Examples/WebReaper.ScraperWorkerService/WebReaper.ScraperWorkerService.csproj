@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-ScraperWorkerService-D9156731-5295-4079-A291-FD567AEC1775</UserSecretsId>
     <LangVersion>11</LangVersion>
+
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'ScraperWorkerService' ">
