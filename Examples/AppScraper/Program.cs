@@ -8,7 +8,7 @@ var engine = await new ScraperEngineBuilder()
     .Follow(".css-rc5s2u")
     .Parse(new()
     {
-        new("title", ".css-1dhh6hr.er34gjf0"),
+        new("title", ".css-1dhh6hr.er34gjf0"), 
         new("price", ".css-1twl9tf.er34gjf0"),
         new("date", ".css-19yf5ek"),
         new("description", ".css-1t507yq.er34gjf0")
