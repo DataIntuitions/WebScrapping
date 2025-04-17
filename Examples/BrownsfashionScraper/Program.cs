@@ -3,7 +3,7 @@ using BrownsfashionScraper;
 using Serilog;
 
 Log.Logger = new LoggerConfiguration()
-                .MinimumLevel.Information()
+                .MinimumLevel.Information() 
                 .WriteTo.Console()
                 .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day)
                 .Enrich.FromLogContext()
