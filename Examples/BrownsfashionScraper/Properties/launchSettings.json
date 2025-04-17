@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "BrownsfashionScraper": {
+    "BrownsfashionScraper": { 
       "commandName": "Project",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"
