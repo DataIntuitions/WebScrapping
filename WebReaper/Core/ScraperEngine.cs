@@ -5,7 +5,7 @@ using WebReaper.Core.Scheduler.Abstract;
 using WebReaper.Core.Spider.Abstract;
 using WebReaper.Domain;
 using WebReaper.Exceptions;
-using static WebReaper.Infra.Executor;
+using static WebReaper.Infra.Executor; 
 
 namespace WebReaper.Core;
 
