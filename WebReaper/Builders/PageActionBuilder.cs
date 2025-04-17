@@ -1,6 +1,6 @@
 ﻿using WebReaper.Domain.PageActions;
 
-namespace WebReaper.Builders;
+namespace WebReaper.Builders; 
 
 public class PageActionBuilder
 {
