@@ -2,7 +2,7 @@
 using WebReaper.ConfigStorage.Abstract;
 using WebReaper.Domain;
 
-namespace WebReaper.ConfigStorage.Concrete;
+namespace WebReaper.ConfigStorage.Concrete; 
 
 /// <inheritdoc />
 public class FileScraperConfigStorage : IScraperConfigStorage
