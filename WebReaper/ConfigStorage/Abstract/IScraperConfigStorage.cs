@@ -1,6 +1,6 @@
 ﻿using WebReaper.Domain;
 
-namespace WebReaper.ConfigStorage.Abstract;
+namespace WebReaper.ConfigStorage.Abstract; 
 
 public interface IScraperConfigStorage
 {
