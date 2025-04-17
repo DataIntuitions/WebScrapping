@@ -3,7 +3,7 @@
 - [X] Use cookie container for dynamic pages
 - [X] Add support for saving url in schema
 - [X] Split up crawler builder and runner
-- [ ] Think about creating DataDiscoveryCrawler and DataExtractionCrawler
+- [ ] Think about creating DataDiscoveryCrawler and DataExtractionCrawler 
 - [X] Use channels instead of blocking collection
 - [ ] Implement throttling
 - [ ] Save logs to Seq
