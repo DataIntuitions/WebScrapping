@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-## How Can I Contribute?
+## How Can I Contribute? 
 
 ### Reporting Bugs
 
