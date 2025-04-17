@@ -1,5 +1,5 @@
 ﻿using System.Net;
-using WebReaper.Core.CookieStorage.Concrete;
+using WebReaper.Core.CookieStorage.Concrete; 
 using Xunit.Abstractions;
 
 namespace WebReaper.IntegrationTests
