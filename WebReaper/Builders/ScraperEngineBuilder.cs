@@ -1,6 +1,6 @@
 ﻿using System.Net;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Abstractions;
+using Microsoft.Extensions.Logging.Abstractions; 
 using Newtonsoft.Json.Linq;
 using WebReaper.ConfigStorage.Abstract;
 using WebReaper.ConfigStorage.Concrete;
