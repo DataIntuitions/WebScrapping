@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using WebReaper.ConfigStorage.Abstract;
 using WebReaper.DataAccess;
 using WebReaper.Domain;
-
+ 
 namespace WebReaper.ConfigStorage.Concrete;
 
 public class RedisScraperConfigStorage : RedisBase, IScraperConfigStorage
